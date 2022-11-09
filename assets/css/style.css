@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@300;400&display=swap');
+
+*{
+    margin: 0;
+    padding: 0%;
+}
+
+body{
+    font-family: 'Source Sans Pro', sans-serif;
+    background-color: whitesmoke;
+    display: block;
+    text-align: center;
+    margin: 0;
+}
+.logo h2{
+    color: #94428d;
+    display: flex;
+    width: 120px;
+    height: 40px;
+    text-align: center;
+    border-radius: 5px;
+    margin: 10px;
+    padding-left: 1rem;
+}
+header{
+    height: 7vh;
+    display: flex;
+    justify-content: space-between;
+    background-color:whitesmoke;
+    box-shadow: 0 0 1rem;
+}
+ul{
+    display: flex;
+    margin: 23px;
+}
+li{
+    color: #94428d;
+    list-style: none;
+    cursor: pointer;
+    padding-left: 2rem;
+}
+
+.doguinho{
+    margin-top: 10px;
+    
+}
+
+.novos-peludos h2{
+    color: #94428d;
+}
+
+.novos-peludos{
+    box-shadow: 0 0 1rem;
+    width: 800px;
+    display:inline-block;
+    position: relative;
+    margin: 0;
+}
+.por-que-adotar h1{
+    color: #94428d;
+}
+.resposta1 h3{
+    color: #94428d;
+}
+
+.responsta2 h3{
+    color: #94428d;
+}
+
+.resposta3 h3{
+    color: #94428d;
+}
